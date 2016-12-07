@@ -1,6 +1,6 @@
 # MONUC_DB
 
-Web based DB for managing rental/hire of dive gear.
+Web based DB, with PHP/sql for managing rental/hire of dive gear.
 
 ##Minimum Viable Product
 
