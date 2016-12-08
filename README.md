@@ -27,4 +27,5 @@ Web based DB, with PHP/sql for managing rental/hire of dive gear.
 
 Check here for some details:
 https://github.com/s2b/rental
-(Link)[https://www.sitepoint.com/getting-started-mysql/]
+
+[Link](https://www.sitepoint.com/getting-started-mysql/)
